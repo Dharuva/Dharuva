@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **21bma010@nith.ac.in**
+- 📫 How to reach me **21bma016@nith.ac.in**
 
 - ⚡ Fun fact **I am a procrastinator :)**
 
